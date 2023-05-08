@@ -1,0 +1,15 @@
+Enter the student id: 1101
+Enter the student name: john
+Enter the student id: 1102
+Enter the student name: jen
+Enter the student id: 1103
+Enter the student name: alice
+Enter the student id: 1104
+Enter the student name: tom
+Enter the student id: 0
+
+The students are:
+1101 john
+1102 jen
+1103 alice
+1104 tom
